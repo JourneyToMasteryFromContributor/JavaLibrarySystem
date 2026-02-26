@@ -1,4 +1,5 @@
 public class Library {
+    // Declare book object array named bookLibrary (Refer back to week 2)
     private Book[] bookLibrary;
     private int count;
 
@@ -41,3 +42,4 @@ public class Library {
         System.out.println(this.bookLibrary[index]);
     }
 }
+
